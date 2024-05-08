@@ -1,1 +1,2 @@
-# SEMESTER-2
+# SEMESTER-2<br>
+Hello, everyone! Welcome to the repository for the second semester of my first year. This semester, I'm excited to share projects and exercises from a variety of courses, including Programming Technique II, System Analysis and Design, Computer Organization Architecture, Probability and Statistical Data Analysis, Human-Computer Architecture, and Appreciation of Ethics and Civilizations. This repository contains all of my assignments and exercises for these courses. Feel free to look around and approach me if you have any questions or want to work on similar projects!
